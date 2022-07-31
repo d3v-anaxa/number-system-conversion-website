@@ -25,15 +25,9 @@ body {
 	justify-content: center;
 }
 
-.container::after {
-	z-index: 2;
-	opacity: 0.4;
-	background-color: #fff;
-	border-radius: 20px;
-}
-
 .container h1 {
-	font-size: 5rem;
+	font-size: 5vw;
+	padding: 15px;
 
 }
 
